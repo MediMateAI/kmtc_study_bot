@@ -3,7 +3,7 @@ import random
 import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-TOKEN = "YOUR_BOT_TOKEN"  # Replace with your actual bot token
+TOKEN = "7533333223:AAEGGlcuHg77VQRIVRz0qawisX2BmPt7nS8"  # Your actual bot token
 bot = telebot.TeleBot(TOKEN)
 
 # Remove existing webhook to prevent conflicts
